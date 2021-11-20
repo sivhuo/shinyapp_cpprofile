@@ -1,0 +1,14 @@
+name: shinyapp_cpprofile
+title: shinyapp_cpprofile
+username:
+account: sivhuo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5168308
+bundleId: 5272729
+url: https://sivhuo.shinyapps.io/shinyapp_cpprofile/
+when: 1637375163.67766
+lastSyncTime: 1637375163.67767
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
